@@ -1,6 +1,5 @@
 %define		php_min_version 5.0.0
 %define		pkgname	restructuredtext
-%include	/usr/lib/rpm/macros.php
 Summary:	Parser to convert reStructuredText files to HTML using PHP
 Name:		php-%{pkgname}
 Version:	0.1
